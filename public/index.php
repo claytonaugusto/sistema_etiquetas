@@ -4,8 +4,6 @@ require __DIR__ . "/../bootstrap.php";
 
 use core\Controller;
 
-// dd(app\classes\Uri::uri());
-
 try {
     $controller = new Controller();
     $controller->load();
