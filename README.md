@@ -18,16 +18,6 @@ Este projeto nasceu da necessidade de organizar a rotina de cuidados com a saúd
 * **Layout Adaptado:** Etiquetas formatadas para fácil leitura (ideal para idosos).
 * **Exportação:** Geração de arquivo pronto para impressão.
 
-;### 🚀 Tecnologias
-;* [Tecnologia 1]
-;* [Tecnologia 2]
-;* [Tecnologia 3]
-
-;### 🔧 Instalação e Uso
-;1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-;2. Instale as dependências: `[comando de instalação]`
-;3. Inicie a aplicação: `[comando de início]`
-
 ---
 
 ## 🇺🇸 English
@@ -40,30 +30,3 @@ This project was created to streamline health care routines. The system generate
 * **Cycle Calculation:** Definition of intervals (e.g., every 8 hours).
 * **Adapted Layout:** Labels formatted for easy reading (ideal for seniors).
 * **Export:** Ready-to-print file generation.
-
-;### 🚀 Technologies
-;* [Technology 1]
-;* [Technology 2]
-;* [Technology 3]
-
-;### 🔧 Installation and Usage
-;1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-;2. Install dependencies: `[install command]`
-;3. Start the application: `[start command]`
-
----
-
-;## 📸 Screenshots / Capturas de Tela
-;*(Arraste as imagens do seu projeto para cá)*
-
----
-
-;## 🤝 Contribuição / Contributing
-;1. Fork o projeto.
-;2. Crie uma Branch para sua feature (`git checkout -b feature/NovaFeature`).
-;3. Commit suas mudanças (`git commit -m 'Adicionando NovaFeature'`).
-;4. Push para a Branch (`git push origin feature/NovaFeature`).
-;5. Abra un Pull Request.
-
----
-;**Desenvolvido por Clayton Auguto** - [Seu LinkedIn](link-do-seu-linkedin)
