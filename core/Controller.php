@@ -54,7 +54,7 @@ class Controller
 
         $controller = $this->instatiateController();
         if(!method_exists($controller, $action)){
-            throw new Exception("O méthod {$action} não existe no controller");
+            throw new Exception("O método {$action} não existe no controller");
         }
 
         return $controller->$action();
